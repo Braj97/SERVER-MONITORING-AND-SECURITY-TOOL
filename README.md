@@ -122,3 +122,4 @@ do
     echo
     echo -e "${YELLOW}
 # OUTPUT
+https://i.supaimg.com/b07f367b-02ce-46e8-be00-5734adffe9c9/db9baf47-dd5b-45d5-af4c-51a48a2d62d7.png
